@@ -1,3 +1,11 @@
+根据非ROS下的SDK：https://github.com/NXROBO/sagittarius_sdk 使用pybind11编译为可以在python环境直接调用的动态库文件
+
+
+# 自动编译
+根目录下：pip install -e .
+
+
+# 手动编译
 # 首先编译 pybind11
 
 # pybind11包含 eigen3，只需要安装boost库
