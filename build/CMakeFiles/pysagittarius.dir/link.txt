@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -flto -shared  -o pysagittarius.so CMakeFiles/pysagittarius.dir/pysagittarius.cc.o  -lsagittarius_sdk /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0 -lpthread 

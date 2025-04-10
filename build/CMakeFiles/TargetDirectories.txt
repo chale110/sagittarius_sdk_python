@@ -1,0 +1,3 @@
+/home/shock-en/Pybind/build/CMakeFiles/edit_cache.dir
+/home/shock-en/Pybind/build/CMakeFiles/rebuild_cache.dir
+/home/shock-en/Pybind/build/CMakeFiles/pysagittarius.dir

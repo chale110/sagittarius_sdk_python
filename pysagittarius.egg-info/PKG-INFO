@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: pysagittarius
+Version: 0.1.0
+Summary: Python绑定库用于控制Sagittarius机械臂
+Home-page: UNKNOWN
+Author: Chengleng Han
+Author-email: hanchengleng@whut.edu.cn
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
